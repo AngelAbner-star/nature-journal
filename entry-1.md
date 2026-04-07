@@ -8,7 +8,7 @@ What I found
 
 
 
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623227995/large.jpg" width="200" height="200" />-Small unknown plant
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623227995/large.jpg" width="200" height="200" />
 
 
 
