@@ -4,7 +4,7 @@ This is my personal nature journal where I track plants,mushrooms, foraging find
 
 Entries
 
-- coming soon...
+- [Entry 1](entry-1.md)
 
 goals
 
