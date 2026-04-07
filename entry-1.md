@@ -5,8 +5,7 @@ My backyard
 
 What I found
 -Amber Jelly Roll Mushroom
-<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623227995/large.jpg"/><img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/085f47d9-0a09-43ea-93e2-ec5e6b2f6086" />
--Small unknown plant
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/623227995/large.jpg" width="500" height="500" />-Small unknown plant
 
 Notes
 Today I started my nature journal. I want to learn how to identify plants and connect with nature more.
